@@ -1,0 +1,84 @@
+GID,CO_GEO,NM_MUN,CO_MRC,NM_MRC,CO_REG,NM_REG,CO_DES,DESCRIPT,CMM
+1,66007,Montréal-Est,66,Montréal,6,Montréal,V,Ville,T
+2,66023,Montréal,66,Montréal,6,Montréal,V,Ville,T
+3,66032,Westmount,66,Montréal,6,Montréal,V,Ville,T
+4,66047,Montréal-Ouest,66,Montréal,6,Montréal,V,Ville,T
+5,66058,Côte-Saint-Luc,66,Montréal,6,Montréal,V,Ville,T
+6,66062,Hampstead,66,Montréal,6,Montréal,V,Ville,T
+7,66072,Mont-Royal,66,Montréal,6,Montréal,V,Ville,T
+8,66087,Dorval,66,Montréal,6,Montréal,V,Ville,T
+9,66092,L'Île-Dorval,66,Montréal,6,Montréal,V,Ville,T
+10,66097,Pointe-Claire,66,Montréal,6,Montréal,V,Ville,T
+11,66102,Kirkland,66,Montréal,6,Montréal,V,Ville,T
+12,66107,Beaconsfield,66,Montréal,6,Montréal,V,Ville,T
+13,66112,Baie-d'Urfé,66,Montréal,6,Montréal,V,Ville,T
+14,66117,Sainte-Anne-de-Bellevue,66,Montréal,6,Montréal,V,Ville,T
+15,66127,Senneville,66,Montréal,6,Montréal,VL,Village,T
+16,66142,Dollard-Des-Ormeaux,66,Montréal,6,Montréal,V,Ville,T
+17,65005,Laval,65,Laval,13,Laval,V,Ville,T
+18,60005,Charlemagne,60,L'Assomption,14,Lanaudière,V,Ville,T
+19,60013,Repentigny,60,L'Assomption,14,Lanaudière,V,Ville,T
+20,60020,Saint-Sulpice,60,L'Assomption,14,Lanaudière,P,Paroisse,T
+21,60028,L'Assomption,60,L'Assomption,14,Lanaudière,V,Ville,T
+22,64008,Terrebonne,64,Les Moulins,14,Lanaudière,V,Ville,T
+23,64015,Mascouche,64,Les Moulins,14,Lanaudière,V,Ville,T
+24,72005,Saint-Eustache,72,Deux-Montagnes,15,Laurentides,V,Ville,T
+25,72010,Deux-Montagnes,72,Deux-Montagnes,15,Laurentides,V,Ville,T
+26,72015,Sainte-Marthe-sur-le-Lac,72,Deux-Montagnes,15,Laurentides,V,Ville,T
+75,71060,L'Île-Perrot,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
+76,71065,Notre-Dame-de-l'Île-Perrot,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
+77,71070,Pincourt,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
+78,71075,Terrasse-Vaudreuil,71,Vaudreuil-Soulanges,16,Montérégie,M,Municipalité,T
+79,71083,Vaudreuil-Dorion,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
+80,71090,Vaudreuil-sur-le-Lac,71,Vaudreuil-Soulanges,16,Montérégie,VL,Village,T
+27,72020,Pointe-Calumet,72,Deux-Montagnes,15,Laurentides,M,Municipalité,T
+28,72025,Saint-Joseph-du-Lac,72,Deux-Montagnes,15,Laurentides,M,Municipalité,T
+29,72032,Oka,72,Deux-Montagnes,15,Laurentides,M,Municipalité,T
+30,72802,Kanesatake,72,Deux-Montagnes,15,Laurentides,EA,Établissement amérindien,T
+31,73005,Boisbriand,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+32,73010,Sainte-Thérèse,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+33,73015,Blainville,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+34,73020,Rosemère,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+35,73025,Lorraine,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+36,73030,Bois-des-Filion,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+37,73035,Sainte-Anne-des-Plaines,73,Thérèse-De Blainville,15,Laurentides,V,Ville,T
+38,74005,Mirabel,74,Mirabel,15,Laurentides,V,Ville,T
+39,55057,Richelieu,55,Rouville,16,Montérégie,V,Ville,T
+40,55065,Saint-Mathias-sur-Richelieu,55,Rouville,16,Montérégie,M,Municipalité,T
+41,57005,Chambly,57,La Vallée-du-Richelieu,16,Montérégie,V,Ville,T
+42,57010,Carignan,57,La Vallée-du-Richelieu,16,Montérégie,V,Ville,T
+43,57020,Saint-Basile-le-Grand,57,La Vallée-du-Richelieu,16,Montérégie,V,Ville,T
+44,57025,McMasterville,57,La Vallée-du-Richelieu,16,Montérégie,M,Municipalité,T
+45,57030,Otterburn Park,57,La Vallée-du-Richelieu,16,Montérégie,V,Ville,T
+46,57033,Saint-Jean-Baptiste,57,La Vallée-du-Richelieu,16,Montérégie,M,Municipalité,T
+47,57035,Mont-Saint-Hilaire,57,La Vallée-du-Richelieu,16,Montérégie,V,Ville,T
+48,57040,Beloeil,57,La Vallée-du-Richelieu,16,Montérégie,V,Ville,T
+49,57045,Saint-Mathieu-de-Beloeil,57,La Vallée-du-Richelieu,16,Montérégie,M,Municipalité,T
+50,58007,Brossard,58,Longueuil,16,Montérégie,V,Ville,T
+51,58012,Saint-Lambert,58,Longueuil,16,Montérégie,V,Ville,T
+52,58033,Boucherville,58,Longueuil,16,Montérégie,V,Ville,T
+53,58037,Saint-Bruno-de-Montarville,58,Longueuil,16,Montérégie,V,Ville,T
+54,58227,Longueuil,58,Longueuil,16,Montérégie,V,Ville,T
+55,59010,Sainte-Julie,59,Marguerite-D'Youville,16,Montérégie,V,Ville,T
+56,59015,Saint-Amable,59,Marguerite-D'Youville,16,Montérégie,M,Municipalité,T
+57,59020,Varennes,59,Marguerite-D'Youville,16,Montérégie,V,Ville,T
+58,59025,Verchères,59,Marguerite-D'Youville,16,Montérégie,M,Municipalité,T
+59,59030,Calixa-Lavallée,59,Marguerite-D'Youville,16,Montérégie,P,Paroisse,T
+60,59035,Contrecoeur,59,Marguerite-D'Youville,16,Montérégie,V,Ville,T
+61,67005,Saint-Mathieu,67,Roussillon,16,Montérégie,M,Municipalité,T
+62,67010,Saint-Philippe,67,Roussillon,16,Montérégie,M,Municipalité,T
+63,67015,La Prairie,67,Roussillon,16,Montérégie,V,Ville,T
+64,67020,Candiac,67,Roussillon,16,Montérégie,V,Ville,T
+65,67025,Delson,67,Roussillon,16,Montérégie,V,Ville,T
+66,67030,Sainte-Catherine,67,Roussillon,16,Montérégie,V,Ville,T
+67,67035,Saint-Constant,67,Roussillon,16,Montérégie,V,Ville,T
+68,67040,Saint-Isidore,67,Roussillon,16,Montérégie,P,Paroisse,T
+69,67045,Mercier,67,Roussillon,16,Montérégie,V,Ville,T
+70,67050,Châteauguay,67,Roussillon,16,Montérégie,V,Ville,T
+71,67055,Léry,67,Roussillon,16,Montérégie,V,Ville,T
+72,70022,Beauharnois,70,Beauharnois-Salaberry,16,Montérégie,V,Ville,T
+73,71050,Les Cèdres,71,Vaudreuil-Soulanges,16,Montérégie,M,Municipalité,T
+74,71055,Pointe-des-Cascades,71,Vaudreuil-Soulanges,16,Montérégie,VL,Village,T
+81,71095,L'Île-Cadieux,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
+82,71100,Hudson,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
+83,71105,Saint-Lazare,71,Vaudreuil-Soulanges,16,Montérégie,V,Ville,T
